@@ -1,5 +1,5 @@
 ![bannerBoasVindas](https://github.com/WalterDeAlmeidaLira/WalterDeAlmeidaLira/blob/main/banner_walter_github.png) 
-<h1 align="center">Olá 👋, sou o Walter</h1>
+<h1 align="center">Olá 👋, bem-vindo(a)</h1>
 <h3 align="center">Sou estudante de análise e desenvolvimento de sistemas pelo SENAC</h3>
 
 - 🌱Estou estudando **Algoritmos, Node. js e TypeScript**
