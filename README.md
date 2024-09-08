@@ -20,5 +20,3 @@
 <img align= "center" margin="5px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOIBcouZeYN0Sl-Jk70ZKyg6TbvJs9pMQkHg&s" alt="walter lira" height="50" width="90" />
 <img align= "center" margin="5px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIa_lraqm7DMm1va1D0gzULlZl1hiRVUpCA&s" alt="walter lira" height="50" width="100" />
 </a></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walterdealmeidalira&show_icons=true&locale=en&layout=compact" alt="walterdealmeidalira" /> </p>
