@@ -2,8 +2,6 @@
 <h1 align="center">Olá 👋, bem-vindo(a)</h1>
 <h3 align="center">Sou estudante de análise e desenvolvimento de sistemas pelo SENAC</h3>
 
-- 🌱Estou estudando **Algoritmos, Node. js e TypeScript**
-
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/WalterDeAlmeidaLira](https://github.com/WalterDeAlmeidaLira)
 
 - 📫 contato **walterlirawalterlira47@gmail.com**
