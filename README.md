@@ -1,22 +1,68 @@
-![bannerBoasVindas](https://github.com/WalterDeAlmeidaLira/WalterDeAlmeidaLira/blob/main/banner_walter_github.png) 
-<h1 align="center">Olá 👋, bem-vindo(a)</h1>
-<h3 align="center">Sou estudante de análise e desenvolvimento de sistemas pelo SENAC</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-- 👨‍💻 Meus projetos estão disponíveis em [https://github.com/WalterDeAlmeidaLira](https://github.com/WalterDeAlmeidaLira)
+<div align="center">
+  <a href="https://www.linkedin.com/in/walter-lira" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:walterlirawalterlira47@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-- 📫 contato **walterlirawalterlira47@gmail.com**
+<h1 align="center">Olá 👋, bem-vindo(a)!</h1>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/walter lira" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walter lira" height="30" width="40" /></a>
+<h3 align="center">Sou Walter Lira, estudante de Análise e Desenvolvimento de Sistemas pelo SENAC.</h3>
+
+<p align="center">
+   Atualmente focado em desenvolvimento Backend com Python e Cloud Computing.
 </p>
 
-<h3 align="left">Ferramentas:</h3>
-<a href="https://github.com/WalterDeAlmeidaLira" target="blank"><img align= "center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJDe98zPQ1PzZ7ZnvQkDKCwjs3mGuID2OMkA&s" alt="walter lira" height="50" width="50" />-
-<img align= "center" margin="5px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="walter lira" height="50" width="50" />
-<img align= "center" margin="5px" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon.png" alt="walter lira" height="50" width="50" />
-<img align= "center" margin="5px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" alt="walter lira" height="50" width="50" />
-<img align= "center" margin="5px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCWPKlLhBry9dR4j_Zs03x9MW1VpXph3I6Q&s" alt="walter lira" height="50" width="90" />
-<img align= "center" margin="5px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOIBcouZeYN0Sl-Jk70ZKyg6TbvJs9pMQkHg&s" alt="walter lira" height="50" width="90" />
-<img align= "center" margin="5px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIa_lraqm7DMm1va1D0gzULlZl1hiRVUpCA&s" alt="walter lira" height="50" width="100" />
-</a></p>
+<div align="center">
+
+| :telescope: Projetos | :mailbox: Contato |
+| :--- | :--- |
+| Meus códigos estão disponíveis [aqui](https://github.com/WalterDeAlmeidaLira) | walterlirawalterlira47@gmail.com |
+
+</div>
+
+<br>
+
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/ios/50/ffffff/flask.png" height="40" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+<br>
+
+<h3 align="left">🔥 Minhas Estatísticas:</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=WalterDeAlmeidaLira&locale=pt_br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
